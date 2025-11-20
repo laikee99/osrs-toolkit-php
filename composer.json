@@ -1,8 +1,8 @@
 {
-    "name": "opensrs/osrs-toolkit-php",
+    "name": "laikee99/osrs-toolkit-php",
     "description": "OpenSRS PHP Toolkit",
     "type": "library",
-    "homepage": "https://opensrs.com",
+    "homepage": "https://github.com/laikee99/osrs-toolkit-php",
     "license": "MIT",
     "authors": [
         {
